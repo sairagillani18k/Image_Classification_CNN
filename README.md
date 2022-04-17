@@ -3,6 +3,8 @@ Image classification by using CNN
 
 Will classify images of cats and dogs by using Sequential Model. Will import Sequential model from tensor flow. 
 
+* level 1
+
 Step 1: Import all libraries 
 Step 2: Download the data and unzip it and keep it in the same folder where your notebook is.
 Step 3: Divide data a=in Train and test -- 2000 images are in train set and 200 in tets set
